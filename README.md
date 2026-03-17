@@ -33,7 +33,8 @@
 
 ## 🎬 Demo
 
-![LLM Soft Interruption Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=LLM+Soft+Interruption+Demo)
+<img width="1066" height="874" alt="image" src="https://github.com/user-attachments/assets/8603ac2d-ba2f-4733-bc68-b3b4a1cec8ab" />
+
 
 ### 交互流程演示
 
